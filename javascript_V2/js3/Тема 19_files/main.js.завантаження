@@ -1,0 +1,10 @@
+
+function saveTovar(){
+    let tovar = {
+        name: document.getElementById('name').value,
+        photo: document.getElementById('photo').value,
+        reviews: document.getElementById('reviews').value,
+        price: document.getElementById('price').value
+    }
+    console.log(tovar)
+}

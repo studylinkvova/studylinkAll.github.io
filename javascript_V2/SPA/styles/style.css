@@ -1,0 +1,10 @@
+#main{
+    border: 1px solid red;
+    min-height: 350px;
+    width: 96%;
+    margin: 20px auto;
+    background-color: blue;
+}
+body{
+    background-color: aquamarine;
+}
