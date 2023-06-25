@@ -1,0 +1,5 @@
+let nikita = [];
+
+for(i=0;i<10;i++){
+nikita.push(prompt(`Введіть число`));
+}
